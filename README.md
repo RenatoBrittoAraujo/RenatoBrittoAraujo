@@ -5,15 +5,6 @@ at [UnB](https://en.wikipedia.org/wiki/University_of_Bras%C3%ADlia) (University 
 
 I'm a programmer from heart and possess some big entrepreneurial aspirations, as well as a lot of curiosity and self-discipline. I just **love** what I do.
 
-### Achievements
-
-- I participated on [ICPC Brazilian Finals 2019](https://icpc.global/regionals/finder/South-America-Brazil-2019/teams), coming in at 23rd out of 60.
-- Got my first job programing!
-- Then, got my first job on machine learning!
-- Read (and am still reading) hundreds of technical and non-technical books.
-- Met a lot of brilliant people and built a network of connections.
-- Worked on several projects ranging from variable scopes, languages and paradigms with great coworkers.
-
 ### Areas of Interest
 
 In descending order of interest:
