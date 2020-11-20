@@ -1,5 +1,12 @@
 # Hey hi, don't think we've met yet!
 
+[![Twitter Badge](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Frenato_britto_)](https://twitter.com/renato_britto_)
+[![GitHub renatobrittoaraujo](https://img.shields.io/github/followers/renatobrittoaraujo?label=follow&style=social)](https://github.com/renatobrittoaraujo)
+![Github Views](https://komarev.com/ghpvc/?username=renatobrittoaraujo&color=red)
+
+[![Linkedin: renato-britto-araujo](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renato-britto-araujo/)
+[![Protonmail Badge](https://img.shields.io/badge/protonmail-8B89CC?&style=for-the-badge&logo=protonmail&logoColor=white)](mailto:renatobritto@protonmail.com)
+
 My name is **Renato Britto Araujo**, I'm a student of **Software Engineering**
 at [UnB](https://en.wikipedia.org/wiki/University_of_Bras%C3%ADlia) (University of Brasilia).
 
