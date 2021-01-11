@@ -8,7 +8,7 @@
 [![Protonmail Badge](https://img.shields.io/badge/protonmail-8B89CC?&style=for-the-badge&logo=protonmail&logoColor=white)](mailto:renatobritto@protonmail.com)
 
 My name is **Renato Britto Araujo**, I'm a student of **Software Engineering**
-at [UnB](https://en.wikipedia.org/wiki/University_of_Bras%C3%ADlia) (University of Brasilia).
+at [UnB](https://en.wikipedia.org/wiki/University_of_Bras%C3%ADlia) (University of Brasilia). I am currently working as a Project Manager for AI.lab UnB.
 
 I'm a programmer from heart and possess some big entrepreneurial aspirations, as well as a lot of curiosity and self-discipline. I just **love** what I do.
 
@@ -30,5 +30,5 @@ In descending order of interest:
 | - | - | - |
 | ProEpi Desenvolvimento | [Guardiões da saúde](https://play.google.com/store/apps/details?id=com.guardioesapp&hl=pt_BR) [(GitHub)](https://github.com/proepidesenvolvimento/guardioes-api) | Full Stack developer. I did a lot, such as the app's map, increasing performance and implementing several features on the API, data analytics with the Elastic Stack and some DevOps. |
 | [Gama CubeDesign](https://www.facebook.com/gamacubedesign/) | GAMASAT-1 | Developed computer vision software for a satellite API, using Artificial Inteligence, for detecting wildfires and deforestment. | 
-| [AiLab](https://ailab.unb.br/) | Mandamus | API for classifying and composing legal documents using Artificial Intelligence. |
+| [AiLab](https://ailab.unb.br/) | Mandamus | API for classifying and composing legal documents using Artificial Intelligence. Created the most accurate models with over 90% precision; Tested and documented the codebase; Currently am the Project Manager |
 | [Lappis](https://lappis.rocks/) | [Sistema de Monitoramento de Insumos](https://gitlab.com/lappis-unb/projects/SMI) | Worked with Django REST and Vue developing an application for monitoring my university's electrical grid. |
