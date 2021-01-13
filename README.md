@@ -10,6 +10,8 @@
 My name is **Renato Britto Araujo**, I'm a student of **Software Engineering**
 at [UnB](https://en.wikipedia.org/wiki/University_of_Bras%C3%ADlia) (University of Brasilia). I am currently working as a Project Manager for AI.lab UnB.
 
+You may find more of my work over at [GitLab](https://gitlab.com/renatoba).
+
 I'm a programmer from heart and possess some big entrepreneurial aspirations, as well as a lot of curiosity and self-discipline. I just **love** what I do.
 
 ### Projects I participated in
