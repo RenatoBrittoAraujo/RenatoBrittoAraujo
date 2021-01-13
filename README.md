@@ -12,18 +12,6 @@ at [UnB](https://en.wikipedia.org/wiki/University_of_Bras%C3%ADlia) (University 
 
 I'm a programmer from heart and possess some big entrepreneurial aspirations, as well as a lot of curiosity and self-discipline. I just **love** what I do.
 
-### Areas of Interest
-
-In descending order of interest:
-
-- Entrepreneurship
-- Machine Learning/Deep Learning
-- Backend development
-- Digital security
-- Aerospace
-- Algorithms and Data Structures
-- Distributed Systems
-
 ### Projects I participated in
 
 | Where | Project name | What I did |
@@ -32,3 +20,11 @@ In descending order of interest:
 | ProEpi Desenvolvimento | [Guardiões da saúde](https://play.google.com/store/apps/details?id=com.guardioesapp&hl=pt_BR) - [(GitHub)](https://github.com/proepidesenvolvimento/guardioes-api) | Full Stack developer. I did a lot, such as the app's map, increasing performance and implementing several features on the API, data analytics with the Elastic Stack and some DevOps. |
 | [Gama CubeDesign](https://www.facebook.com/gamacubedesign/) | GAMASAT-1 | Developed computer vision software for a satellite API, using Artificial Inteligence, for detecting wildfires and deforestment. | 
 | [Lappis](https://lappis.rocks/) | [Sistema de Monitoramento de Insumos](https://gitlab.com/lappis-unb/projects/SMI) | Worked with Django REST and Vue developing an application for monitoring my university's electrical grid. |
+
+### Areas of Interest
+
+- **Entrepreneurship**: read a lot on the topic, and learned from talking with several business owner from real-estate to truck companies and small software business' CEO's.  
+- **Machine Learning**: implemented NN's from scratch in C, C++ and Go, including image classification, and have read many books on the theory and math behind. Developed many projects using Deep Learning and worked on a AI laboratory.
+- **Data Structures and Algorithms**: read several books on the topic, and praticed for hundreds (if not thousands) of hours on websites like Codeforces. I participated on ICPC Brazilian Nationals 2019, a competitive programming national contest, representing my university.
+- **Digital Security**: studied several related areas, such as OS', networking, cryptography and others. Participated in severtal Capture the Flag (CTF), digital security competitions. 
+- **Aerospace**: initially joined university to be an aerospace engineer, and even though I changed plans, it's still fascinating. Studied physics and space science. Participated in aerospace competition team, developing software for a cubesat sattelite. Created a few simulations.
