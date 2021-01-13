@@ -23,7 +23,7 @@ I'm a programmer from heart and possess some big entrepreneurial aspirations, as
 
 ### Areas of Interest
 
-- **Entrepreneurship**: read a lot on the topic, and learned from talking with several business owner from real-estate to truck companies and small software business' CEO's.  
+- **Entrepreneurship**: read a lot on the topic, and learned from talking with several business owners from real-estate to truck companies and small software business' CEO's.  
 - **Machine Learning**: implemented NN's from scratch in C, C++ and Go, including image classification, and have read many books on the theory and math behind. Developed many projects using Deep Learning and worked on a AI laboratory.
 - **Data Structures and Algorithms**: read several books on the topic, and praticed for hundreds (if not thousands) of hours on websites like Codeforces. I participated on ICPC Brazilian Nationals 2019, a competitive programming national contest, representing my university.
 - **Digital Security**: studied several related areas, such as OS', networking, cryptography and others. Participated in severtal Capture the Flag (CTF), digital security competitions. 
