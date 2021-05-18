@@ -8,7 +8,7 @@
 [![Protonmail Badge](https://img.shields.io/badge/protonmail-8B89CC?&style=for-the-badge&logo=protonmail&logoColor=white)](mailto:renatobritto@protonmail.com)
 
 My name is **Renato Britto Araujo**, I'm CTO and Co-Founder of Red Matter, Backend developer at Zapay and student of **Software Engineering**
-at [UnB](https://en.wikipedia.org/wiki/University_of_Bras%C3%ADlia) (University of Brasilia). You can learn more about my in [my website](http://renatobritto.com.br)
+at [UnB](https://en.wikipedia.org/wiki/University_of_Bras%C3%ADlia) (University of Brasilia). You can learn more about my in [my website](http://renatobritto.com.br).
 
 You may find more of my work over at [GitLab](https://gitlab.com/renatoba). Or you can read my [resume](https://www.linkedin.com/in/renato-britto-araujo/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACg6CRUBmqu8F8P9l0QsCBs9L72rpE_U_P8,1609959810589)/).
 
