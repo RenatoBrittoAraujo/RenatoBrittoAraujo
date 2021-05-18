@@ -10,7 +10,7 @@
 My name is **Renato Britto Araujo**, I'm CTO and Co-Founder of Red Matter, Backend developer at Zapay and student of **Software Engineering**
 at [UnB](https://en.wikipedia.org/wiki/University_of_Bras%C3%ADlia) (University of Brasilia). You can learn more in [my website](http://renatobritto.com.br).
 
-You may find more of my work over at [GitLab](https://gitlab.com/renatoba). Or you can read my [resume](https://www.linkedin.com/in/renato-britto-araujo/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACg6CRUBmqu8F8P9l0QsCBs9L72rpE_U_P8,1609959810589)/).
+You may find more of my work over at [GitLab](https://gitlab.com/renatoba). Or you can read my [resume](https://www.linkedin.com/in/renato-britto-araujo/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACg6CRUBmqu8F8P9l0QsCBs9L72rpE_U_P8,1609959810589)/) and [blog posts](https://renatobrittoaraujo.medium.com/).
 
 I'm a programmer from heart and possess some big entrepreneurial aspirations, as well as a lot of curiosity and self-discipline. I just **love** what I do.
 
