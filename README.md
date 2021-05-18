@@ -29,7 +29,7 @@ I'm a programmer from heart and possess some big entrepreneurial aspirations, as
 
 | Where | When | What |
 | - | - | - |
-| Campo Grande, Paraíba, Brazil | 2019 | Assembled a team and competed in the 2019 ICPC Brazilian Finals representing my university in the competitive programming national contest. |
+| Campina Grande, Paraíba, Brazil | 2019 | Assembled a team and competed in the 2019 ICPC Brazilian Finals representing my university in the competitive programming national contest. |
 
 ### Areas of Interest
 
