@@ -18,7 +18,7 @@ I'm a programmer from heart and possess some big entrepreneurial aspirations, as
 
 | Where | Project name | What I did |
 | - | - | - |
-| [Red Matter](redmatterapp.com) | Red Matter v2.0 | CTO and Co-Founder of the company. In this role, have done a lot such as deciding technologies, gathering requisites, planned and executed uncountable features, deploying and releasing, hiring new developers, helping make business decisions from a tech standpoint and so on. Personally developed the majority of our current core product. |
+| [Red Matter](redmatterapp.com) | [Red Matter v2.0](http://beta.redmatterapp.com/) | CTO and Co-Founder of the company. In this role, have done a lot such as deciding technologies, gathering requisites, planned and executed uncountable features, deploying and releasing, hiring new developers, helping make business decisions from a tech standpoint and so on. Personally developed the majority of our current core product. |
 | [Zapay](https://usezapay.com.br/) | Innumerous projects | Developed new features and systems that allowed the startup to grow. |
 | [AiLab](https://ailab.unb.br/) | Mandamus | API for classifying and composing legal documents using Artificial Intelligence. Created the most accurate models with over 90% precision; Tested and documented the codebase; Currently am the Project Manager |
 | ProEpi Desenvolvimento | [Guardiões da saúde](https://play.google.com/store/apps/details?id=com.guardioesapp&hl=pt_BR) - [(GitHub)](https://github.com/proepidesenvolvimento/guardioes-api) | Full Stack developer. I did a lot, such as the app's map, increasing performance and implementing several features on the API, data analytics with the Elastic Stack and some DevOps. |
