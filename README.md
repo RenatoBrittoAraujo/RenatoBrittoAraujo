@@ -25,6 +25,12 @@ I'm a programmer from heart and possess some big entrepreneurial aspirations, as
 | [Gama CubeDesign](https://www.facebook.com/gamacubedesign/) | GAMASAT-1 | Developed computer vision software for a satellite API, using Artificial Inteligence, for detecting wildfires and deforestment. | 
 | [Lappis](https://lappis.rocks/) | [Sistema de Monitoramento de Insumos](https://gitlab.com/lappis-unb/projects/SMI) | Worked with Django REST and Vue developing an application for monitoring my university's electrical grid. |
 
+### Achievements
+
+| Where | When | What |
+| - | - | - |
+| Campo Grande, Paraíba, Brazil | 2019 | Assembled a team and competed in the 2019 ICPC Brazilian Finals representing my university in the competitive programming national contest. |
+
 ### Areas of Interest
 
 - **Entrepreneurship**: read a lot on the topic, and learned from talking with several business owners from real-estate to truck companies and small software business' CEO's.  
