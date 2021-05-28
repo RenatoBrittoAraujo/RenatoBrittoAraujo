@@ -38,3 +38,5 @@ I'm a programmer from heart and possess some big entrepreneurial aspirations, as
 - **Data Structures and Algorithms**: read several books on the topic, and praticed for hundreds (if not thousands) of hours on websites like Codeforces. I participated on ICPC Brazilian Nationals 2019, a competitive programming national contest, representing my university.
 - **Digital Security**: studied several related areas, such as OS, networking, cryptography and others. Participated in several Capture the Flag (CTF), digital security competitions. 
 - **Aerospace**: initially joined university to be an aerospace engineer, and even though I changed plans, it's still fascinating. Studied physics and space science. Participated in aerospace competition team, developing software for a cubesat sattelite. Created a few simulations.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renatobrittoaraujo)](https://github.com/renatobrittoaraujo/github-readme-stats)
