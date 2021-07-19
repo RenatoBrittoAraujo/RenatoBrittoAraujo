@@ -31,12 +31,7 @@ I'm a programmer from heart and possess some big entrepreneurial aspirations, as
 | - | - | - |
 | Campina Grande, Paraíba, Brazil | 2019 | Assembled a team and competed in the 2019 ICPC Brazilian Finals representing my university in the competitive programming national contest. |
 
-### Areas of Interest
-
-- **Entrepreneurship**: read a lot on the topic, and learned from talking with several business owners from real-estate to truck companies and small software business' CEO's.  
-- **Machine Learning**: implemented NN's from scratch in C, C++ and Go, including image classification, and have read many books on the theory and math behind. Developed many projects using Deep Learning and worked on a AI laboratory.
-- **Data Structures and Algorithms**: read several books on the topic, and praticed for hundreds (if not thousands) of hours on websites like Codeforces. I participated on ICPC Brazilian Nationals 2019, a competitive programming national contest, representing my university.
-- **Digital Security**: studied several related areas, such as OS, networking, cryptography and others. Participated in several Capture the Flag (CTF), digital security competitions. 
-- **Aerospace**: initially joined university to be an aerospace engineer, and even though I changed plans, it's still fascinating. Studied physics and space science. Participated in aerospace competition team, developing software for a cubesat sattelite. Created a few simulations.
+### Areas of Interest: 
+Entrepreneurship, Machine Learning, Data Structures and Algorithms, Digital Security, Aerospace
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renatobrittoaraujo)](https://github.com/renatobrittoaraujo/github-readme-stats)
