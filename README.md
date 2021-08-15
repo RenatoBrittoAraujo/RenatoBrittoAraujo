@@ -1,4 +1,4 @@
-# Hey! How are you?
+# Hey!👋
 
 [![Twitter Badge](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Frenato_britto_)](https://twitter.com/renato_britto_)
 [![GitHub renatobrittoaraujo](https://img.shields.io/github/followers/renatobrittoaraujo?label=follow&style=social)](https://github.com/renatobrittoaraujo)
