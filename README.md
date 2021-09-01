@@ -35,26 +35,24 @@ Here you can read my [resume](https://www.linkedin.com/in/renato-britto-araujo/d
 Interest in Entrepreneurship, Software and Systems Architecture and Aerospace
 </div>
 
+### Experience
 
+- [Red Matter](redmatterapp.com) - [Red Matter v2.0](http://beta.redmatterapp.com/) - CTO and Co-Founder of the company. In this role, have done a lot such as deciding technologies, gathering requisites, planned and executed uncountable features, deploying and releasing, hiring new developers, helping make business decisions from a tech standpoint and so on. Personally developed the majority of our current core product.
 
-### Projects I participated in
+- [Zapay](https://usezapay.com.br/) - Innumerous projects - Developed new features and systems that allowed the startup to grow.
 
-| Where | Project name | What I did |
-| - | - | - |
-| [Red Matter](redmatterapp.com) | [Red Matter v2.0](http://beta.redmatterapp.com/) | CTO and Co-Founder of the company. In this role, have done a lot such as deciding technologies, gathering requisites, planned and executed uncountable features, deploying and releasing, hiring new developers, helping make business decisions from a tech standpoint and so on. Personally developed the majority of our current core product. |
-| [Zapay](https://usezapay.com.br/) | Innumerous projects | Developed new features and systems that allowed the startup to grow. |
-| [AiLab](https://ailab.unb.br/) | Mandamus | API for classifying and composing legal documents using Artificial Intelligence. Created high accuracy models with over 90% precision. Was the project manager and lead the major project to completion within schedule and budget. |
-| ProEpi Desenvolvimento | [Guardiões da saúde](https://play.google.com/store/apps/details?id=com.guardioesapp&hl=pt_BR) - [(GitHub)](https://github.com/proepidesenvolvimento/guardioes-api) | Full Stack developer. I did a lot, such as the app's map, increasing performance and implementing several features on the API, data analytics with the Elastic Stack and some DevOps. |
-| [Gama CubeDesign](https://www.facebook.com/gamacubedesign/) | GAMASAT-1 | Developed computer vision software for a satellite API, using Artificial Inteligence, for detecting wildfires and deforestment. | 
-| [Lappis](https://lappis.rocks/) | [SMI](https://gitlab.com/lappis-unb/projects/SMI) | Worked with Django REST and Vue developing an application for monitoring my university's electrical grid. |
+- [AiLab](https://ailab.unb.br/) - Mandamus - API for classifying and composing legal documents using Artificial Intelligence. Created high accuracy models with over 90% precision. Was the project manager and lead the major project to completion within schedule and budget.
+
+- ProEpi Desenvolvimento - [Guardiões da saúde](https://play.google.com/store/apps/details?id=com.guardioesapp&hl=pt_BR) - [(GitHub)](https://github.com/proepidesenvolvimento/guardioes-api) - Full Stack developer. I did a lot, such as the app's map, increasing performance and implementing several features on the API, data analytics with the Elastic Stack and some DevOps.
+
+- [Gama CubeDesign](https://www.facebook.com/gamacubedesign/) - GAMASAT-1 - Developed computer vision software for a satellite API, using Artificial Inteligence, for detecting wildfires and deforestment.
+
+- [Lappis](https://lappis.rocks/) - [SMI](https://gitlab.com/lappis-unb/projects/SMI) - Worked with Django REST and Vue developing an application for monitoring my university's electrical grid.
 
 ### Achievements
 
-| Where | When | What |
-| - | - | - |
-| Campina Grande, Paraíba, Brazil | 2019 | Assembled a team and competed in the 2019 ICPC Brazilian Finals representing my university in the competitive programming national contest. |
+- Campina Grande, Paraíba, Brazil - 2019 - Assembled a team and competed in the 2019 ICPC Brazilian Finals representing my university in the competitive programming national contest.
 
-<br/>
 <br/>
 <div align="center" style="margin-top:20px">
 Languages<br/><br/>
