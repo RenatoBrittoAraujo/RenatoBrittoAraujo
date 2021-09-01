@@ -1,18 +1,41 @@
-# Hey!👋
+<div align="center">
+  
+<!-- Linkedin -->
+<a href="https://www.linkedin.com/in/renato-britto-araujo/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<!-- Reddit -->
+<a href="https://www.reddit.com/user/Heron500">
+  <img src="https://img.shields.io/badge/reddit-%23FF4500.svg?&style=for-the-badge&logo=reddit&logoColor=white">
+</a>
+<!-- GitLab -->
+<a href="https://gitlab.com/FranciscoHeronildo">
+  <img src="https://img.shields.io/badge/gitlab-%23330f63.svg?&style=for-the-badge&logo=gitlab&logoColor=white">
+</a>
+<a href="mailto:renatobritto@protonmail.com">
+  <img src="https://img.shields.io/badge/protonmail-8B89CC?&style=for-the-badge&logo=protonmail&logoColor=white">
+</a><br/>
 
-[![Twitter Badge](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Frenato_britto_)](https://twitter.com/renato_britto_)
-[![GitHub renatobrittoaraujo](https://img.shields.io/github/followers/renatobrittoaraujo?label=follow&style=social)](https://github.com/renatobrittoaraujo)
+<!--
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renatobrittoaraujo)](https://github.com/renatobrittoaraujo/github-readme-stats)
+-->
+  
 ![Github Views](https://komarev.com/ghpvc/?username=renatobrittoaraujo&color=red)
 
-[![Linkedin: renato-britto-araujo](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renato-britto-araujo/)
-[![Protonmail Badge](https://img.shields.io/badge/protonmail-8B89CC?&style=for-the-badge&logo=protonmail&logoColor=white)](mailto:renatobritto@protonmail.com)
+My name is **Renato Britto Araujo**
 
-My name is **Renato Britto Araujo**, I'm CTO and Co-Founder of Red Matter, Backend developer at Zapay and student of **Software Engineering**
-at [UnB](https://en.wikipedia.org/wiki/University_of_Bras%C3%ADlia) (University of Brasilia). You can learn more in [my website](http://renatobritto.com.br).
+I'm on a mission to become the best engineer I can be
 
-You may find more of my work over at [GitLab](https://gitlab.com/renatoba). Or you can read my [resume](https://www.linkedin.com/in/renato-britto-araujo/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACg6CRUBmqu8F8P9l0QsCBs9L72rpE_U_P8,1609959810589)/) and [blog posts](https://renatobrittoaraujo.medium.com/).
+Currently CTO and Co-Founder of Red Matter
 
-I'm a programmer from heart and possess some big entrepreneurial aspirations, as well as a lot of curiosity and self-discipline. I just love what I do: solving big problems.
+Undergrad student of Software Engineering at <a href="https://en.wikipedia.org/wiki/University_of_Bras%C3%ADlia">UnB</a>
+  
+Here you can read my [resume](https://www.linkedin.com/in/renato-britto-araujo/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACg6CRUBmqu8F8P9l0QsCBs9L72rpE_U_P8,1609959810589)/) and [blog posts](https://renatobrittoaraujo.medium.com/) or visit [my website](http://renatobritto.com.br).
+  
+Interest in Entrepreneurship, Software and Systems Architecture and Aerospace
+</div>
+
+
 
 ### Projects I participated in
 
@@ -23,15 +46,10 @@ I'm a programmer from heart and possess some big entrepreneurial aspirations, as
 | [AiLab](https://ailab.unb.br/) | Mandamus | API for classifying and composing legal documents using Artificial Intelligence. Created high accuracy models with over 90% precision. Was the project manager and lead the major project to completion within schedule and budget. |
 | ProEpi Desenvolvimento | [Guardiões da saúde](https://play.google.com/store/apps/details?id=com.guardioesapp&hl=pt_BR) - [(GitHub)](https://github.com/proepidesenvolvimento/guardioes-api) | Full Stack developer. I did a lot, such as the app's map, increasing performance and implementing several features on the API, data analytics with the Elastic Stack and some DevOps. |
 | [Gama CubeDesign](https://www.facebook.com/gamacubedesign/) | GAMASAT-1 | Developed computer vision software for a satellite API, using Artificial Inteligence, for detecting wildfires and deforestment. | 
-| [Lappis](https://lappis.rocks/) | [Sistema de Monitoramento de Insumos](https://gitlab.com/lappis-unb/projects/SMI) | Worked with Django REST and Vue developing an application for monitoring my university's electrical grid. |
+| [Lappis](https://lappis.rocks/) | [SMI](https://gitlab.com/lappis-unb/projects/SMI) | Worked with Django REST and Vue developing an application for monitoring my university's electrical grid. |
 
 ### Achievements
 
 | Where | When | What |
 | - | - | - |
 | Campina Grande, Paraíba, Brazil | 2019 | Assembled a team and competed in the 2019 ICPC Brazilian Finals representing my university in the competitive programming national contest. |
-
-### Areas of Interest: 
-Entrepreneurship, Machine Learning, Data Structures and Algorithms, Digital Security, Aerospace
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renatobrittoaraujo)](https://github.com/renatobrittoaraujo/github-readme-stats)
