@@ -5,11 +5,11 @@
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <!-- Reddit -->
-<a href="https://www.reddit.com/user/Heron500">
+<a href="https://www.reddit.com/user/RenatoBritto">
   <img src="https://img.shields.io/badge/reddit-%23FF4500.svg?&style=for-the-badge&logo=reddit&logoColor=white">
 </a>
 <!-- GitLab -->
-<a href="https://gitlab.com/FranciscoHeronildo">
+<a href="https://gitlab.com/renatoba">
   <img src="https://img.shields.io/badge/gitlab-%23330f63.svg?&style=for-the-badge&logo=gitlab&logoColor=white">
 </a>
 <a href="mailto:renatobritto@protonmail.com">
