@@ -16,11 +16,15 @@
   <img src="https://img.shields.io/badge/protonmail-8B89CC?&style=for-the-badge&logo=protonmail&logoColor=white">
 </a><br/>
 
-<!--
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renatobrittoaraujo)](https://github.com/renatobrittoaraujo/github-readme-stats)
--->
-  
+<a href="https://wakatime.com/@d1fcfe52-2cf5-4029-84a2-0e33e9f290a7"><img src="https://wakatime.com/badge/user/d1fcfe52-2cf5-4029-84a2-0e33e9f290a7.svg" alt="Total time coded since May 18 2021" /></a>
 ![Github Views](https://komarev.com/ghpvc/?username=renatobrittoaraujo&color=red)
+<br/>
+  
+<!-- 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renatobrittoaraujo)](https://github.com/renatobrittoaraujo/github-readme-stats)
+ -->
+  
+
 
 My name is **Renato Britto Araujo**
 
