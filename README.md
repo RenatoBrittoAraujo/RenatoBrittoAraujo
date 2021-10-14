@@ -30,7 +30,9 @@ My name is **Renato Britto Araujo**
 
 I'm on a mission to become the best engineer I can be
 
-Currently CTO and Co-Founder of Red Matter
+CTO and Co-Founder of Red Matter
+  
+Senior Software Engineer at JusticeText
 
 Undergrad student of Software Engineering at <a href="https://en.wikipedia.org/wiki/University_of_Bras%C3%ADlia">UnB</a>
   
