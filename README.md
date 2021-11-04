@@ -1,5 +1,5 @@
 <div align="center">
-  
+<img src="https://c.tenor.com/DZoh8TDhCQ0AAAAi/ytrabn.gif" height="80"><br/>
 <!-- Linkedin -->
 <a href="https://www.linkedin.com/in/renato-britto-araujo/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
