@@ -29,8 +29,6 @@
 My name is **Renato Britto Araujo**
 
 I'm on a mission to become the best engineer I can be
-
-CTO and Co-Founder of Red Matter
   
 Senior Software Engineer at JusticeText
 
@@ -43,7 +41,7 @@ Interest in Entrepreneurship, Software and Systems Architecture and Aerospace
 
 ### Experience
 
-- [Red Matter](redmatterapp.com) - [Red Matter v2.0](http://beta.redmatterapp.com/) - CTO and Co-Founder of the company. In this role, have done a lot such as deciding technologies, gathering requisites, planned and executed uncountable features, deploying and releasing, hiring new developers, helping make business decisions from a tech standpoint and so on. Personally developed the majority of our current core product.
+- [Red Matter](redmatterapp.com) - [Red Matter v2.0](http://beta.redmatterapp.com/) - CTO of the company. In this role, have done a lot such as deciding technologies, gathering requisites, planned and executed uncountable features, deploying and releasing, hiring new developers, helping make business decisions from a tech standpoint and so on. Personally developed the majority of current core product.
 
 - [Zapay](https://usezapay.com.br/) - Innumerous projects - Developed new features and systems that allowed the startup to grow.
 
