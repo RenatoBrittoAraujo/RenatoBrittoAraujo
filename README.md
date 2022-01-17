@@ -58,6 +58,7 @@ Interest in Entrepreneurship, Software and Systems Architecture and Aerospace
 ### Achievements
 
 - Campina Grande, Paraíba, Brazil - 2019 - Assembled a team and competed in the 2019 ICPC Brazilian Finals representing my university in the competitive programming national contest.
+- Gramado, RS, Brazil - 2022 - Competed in the 2022 ICPC Brazilian Finals representing my university in the competitive programming national contest.
 
 <br/>
 <div align="center" style="margin-top:20px">
