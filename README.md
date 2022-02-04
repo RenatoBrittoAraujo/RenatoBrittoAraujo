@@ -32,7 +32,7 @@ I'm on a mission to become the best engineer I can be
   
 Senior Software Engineer at JusticeText
 
-Undergrad student of Software Engineering at <a href="https://en.wikipedia.org/wiki/University_of_Bras%C3%ADlia">UnB</a>
+Software Engineering at <a href="https://en.wikipedia.org/wiki/University_of_Bras%C3%ADlia">UnB</a>
   
 Here you can read my [resume](https://www.linkedin.com/in/renato-britto-araujo/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACg6CRUBmqu8F8P9l0QsCBs9L72rpE_U_P8,1609959810589)/) and [blog posts](https://renatobrittoaraujo.medium.com/) or visit [my website](https://www.renatobritto.com).
   
@@ -40,6 +40,8 @@ Interest in Entrepreneurship, Software and Systems Architecture and Aerospace
 </div>
 
 ### Experience
+
+- [JusticeText](justicetext.com) - [JusticeText Platform](https://platform.justicetext.com/) - Senior Software Engineer. Implemented several full-stack features and systems using React, AWS, Node, and Typescript. Focused on fast delivering tested, quality code while reducing technical debt as much as possible. Worked closely with the team on design to ensure the best user experience and software quality.
 
 - [Red Matter](redmatterapp.com) - [Red Matter v2.0](http://beta.redmatterapp.com/) - CTO of the company. In this role, have done a lot such as deciding technologies, gathering requisites, planned and executed uncountable features, deploying and releasing, hiring new developers, helping make business decisions from a tech standpoint and so on. Personally developed the majority of current core product.
 
