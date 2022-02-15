@@ -34,7 +34,7 @@ Senior Software Engineer at JusticeText
 
 Software Engineering at <a href="https://en.wikipedia.org/wiki/University_of_Bras%C3%ADlia">UnB</a>
   
-Here you can read my [resume](https://www.linkedin.com/in/renato-britto-araujo/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACg6CRUBmqu8F8P9l0QsCBs9L72rpE_U_P8,1609959810589)/) and [blog posts](https://renatobrittoaraujo.medium.com/) or visit [my website](https://www.renatobritto.com).
+Here you can read my [resume](https://www.linkedin.com/in/renato-britto-araujo/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACg6CRUBmqu8F8P9l0QsCBs9L72rpE_U_P8,1609959810589)/) or visit [my website](https://www.renatobritto.com).
   
 Interest in Entrepreneurship, Software and Systems Architecture and Aerospace
 </div>
