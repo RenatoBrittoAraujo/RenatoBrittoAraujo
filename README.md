@@ -30,7 +30,7 @@ My name is **Renato Britto Araujo**
 
 I'm on a mission to become the best engineer I can be
   
-Senior Software Engineer at JusticeText
+Software Engineer at Coinbase
 
 Software Engineering at <a href="https://en.wikipedia.org/wiki/University_of_Bras%C3%ADlia">UnB</a>
   
@@ -40,6 +40,8 @@ Interest in Entrepreneurship, Software and Systems Architecture and Aerospace
 </div>
 
 ### Experience
+
+- [Coinbase](https://www.coinbase.com/) - TBD - TBD
 
 - [JusticeText](justicetext.com) - [JusticeText Platform](https://platform.justicetext.com/) - Senior Software Engineer. Implemented several full-stack features and systems using React, AWS, Node, and Typescript. Focused on fast delivering tested, quality code while reducing technical debt as much as possible. Worked closely with the team on design to ensure the best user experience and software quality.
 
