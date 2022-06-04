@@ -41,7 +41,7 @@ Interest in Entrepreneurship, Software and Systems Architecture and Aerospace
 
 ### Experience
 
-- [Coinbase](https://www.coinbase.com/) - TBD - TBD
+- [Coinbase](https://www.coinbase.com/) - TBD - Software Engineer. TBD
 
 - [JusticeText](justicetext.com) - [JusticeText Platform](https://platform.justicetext.com/) - Senior Software Engineer. Implemented services and features using React, AWS, Node, and Typescript. Focused on fast delivery, testing, and quality.
 
