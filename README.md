@@ -34,7 +34,7 @@ Software Engineer at Coinbase
 
 Software Engineering B.A. at <a href="https://en.wikipedia.org/wiki/University_of_Bras%C3%ADlia">UnB</a>
   
-Here you can read my [resume](https://www.linkedin.com/in/renato-britto-araujo/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACg6CRUBmqu8F8P9l0QsCBs9L72rpE_U_P8,1609959810589)/) or visit [my website](https://www.renatobritto.com).
+Here you can read my [resume](https://www.linkedin.com/in/renato-britto-araujo/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACg6CRUBmqu8F8P9l0QsCBs9L72rpE_U_P8,1609959810589)/) or visit [my website](https://www.renatobritto.com)
   
 Interest in Entrepreneurship, Software and Systems Architecture and Aerospace
 </div>
@@ -43,19 +43,17 @@ Interest in Entrepreneurship, Software and Systems Architecture and Aerospace
 
 - [Coinbase](https://www.coinbase.com/) - TBD - TBD
 
-- [JusticeText](justicetext.com) - [JusticeText Platform](https://platform.justicetext.com/) - Senior Software Engineer. Implemented several full-stack features and systems using React, AWS, Node, and Typescript. Focused on fast delivering tested, quality code while reducing technical debt as much as possible. Worked closely with the team on design to ensure the best user experience and software quality.
+- [JusticeText](justicetext.com) - [JusticeText Platform](https://platform.justicetext.com/) - Senior Software Engineer. Implemented services and features using React, AWS, Node, and Typescript. Focused on fast delivery, testing, and quality.
 
-- [Red Matter](redmatterapp.com) - [Red Matter v2.0](http://beta.redmatterapp.com/) - CTO of the company. In this role, have done a lot such as deciding technologies, gathering requisites, planned and executed uncountable features, deploying and releasing, hiring new developers, helping make business decisions from a tech standpoint and so on. Personally developed the majority of current core product.
+- [Red Matter](redmatterapp.com) - [Red Matter v2.0](http://beta.redmatterapp.com/) - CTO. Gathered business requisites, planned and developed most company's product and infrastructre using AWS, Node and React. Hired and trained developers.
 
-- [Zapay](https://usezapay.com.br/) - Innumerous projects - Developed new features and systems that allowed the startup to grow.
+- [Zapay](https://usezapay.com.br/) - Multiple - Backend Developer. Developed a chatbot's API and backend API features in several microservices using Python and FastAPI.
 
-- [AiLab](https://ailab.unb.br/) - Mandamus - API for classifying and composing legal documents using Artificial Intelligence. Created high accuracy models with over 90% precision. Was the project manager and lead the major project to completion within schedule and budget.
+- [AiLab](https://ailab.unb.br/) - Mandamus - ML Engineer and Project Manager. Developed systems for classifying and composing legal documents using ML models. Created high accuracy models. Lead the project to completion within schedule and budget.
 
-- ProEpi Desenvolvimento - [Guardiões da saúde](https://play.google.com/store/apps/details?id=com.guardioesapp&hl=pt_BR) - [(GitHub)](https://github.com/proepidesenvolvimento/guardioes-api) - Full Stack developer. I did a lot, such as the app's map, increasing performance and implementing several features on the API, data analytics with the Elastic Stack and some DevOps.
+- ProEpi Desenvolvimento - [Guardiões da saúde](https://play.google.com/store/apps/details?id=com.guardioesapp&hl=pt_BR) - [(GitHub)](https://github.com/proepidesenvolvimento/guardioes-api) - Full Stack Developer. Created on the app's map, focusing on mobile performance. Developed core API features and  analytics panel with Elastic + Kibana.
 
-- [Gama CubeDesign](https://www.facebook.com/gamacubedesign/) - GAMASAT-1 - Developed computer vision software for a satellite API, using Artificial Inteligence, for detecting wildfires and deforestment.
-
-- [Lappis](https://lappis.rocks/) - [SMI](https://gitlab.com/lappis-unb/projects/SMI) - Worked with Django REST and Vue developing an application for monitoring my university's electrical grid.
+- [Lappis](https://lappis.rocks/) - [SMI](https://gitlab.com/lappis-unb/projects/SMI) - Full Stack Junior Developer. Worked with Django REST and Vue developing an application for monitoring the university's electrical grid.
 
 ### Achievements
 
@@ -68,20 +66,15 @@ Languages<br/><br/>
 <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
 <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white"/>
 </div><br/>
-  
+
 <div align="center" style="margin-top:20px">
 Frameworks<br/><br/>
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
-<img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>
 <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/>
