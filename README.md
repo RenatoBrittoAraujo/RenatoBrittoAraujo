@@ -45,7 +45,7 @@ Interest in Entrepreneurship, Software and Systems Architecture and Aerospace
 
 - [JusticeText](justicetext.com) - [JusticeText Platform](https://platform.justicetext.com/) - Senior Software Engineer. Implemented services and features using React, AWS, Node, and Typescript. Focused on fast delivery, testing, and quality.
 
-- [Red Matter](redmatterapp.com) - [Red Matter v2.0](http://beta.redmatterapp.com/) - CTO. Gathered business requisites, planned and developed most company's product and infrastructre using AWS, Node and React. Hired and trained developers.
+- [Red Matter](redmatterapp.com) - [Red Matter v2.0](http://beta.redmatterapp.com/) - CTO. Gathered business requisites, planned and developed most company's product and infrastructre using AWS, Node and React. Hired, trained and managed developers.
 
 - [Zapay](https://usezapay.com.br/) - Multiple - Backend Developer. Developed a chatbot's API and backend API features in several microservices using Python and FastAPI.
 
