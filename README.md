@@ -38,12 +38,12 @@ At the moment, unemployed and pursuing to complete my university degree(s?)
  <!--
 Here you can read my [resume](https://www.linkedin.com/in/renato-britto-araujo/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACg6CRUBmqu8F8P9l0QsCBs9L72rpE_U_P8,1609959810589)/) or visit [my website](https://www.renatobritto.com)
  -->
-Interest in Entrepreneurship,  and Aerospace.
+Interest in Entrepreneurship, Embedded Systems and Aerospace.
 </div>
 
 ### Experience
 
-- [Coinbase](https://www.coinbase.com/) - Identity, web3 - Backend Software Engineer. Designed and implemented new systems. Maintained legacy systems.
+- [Coinbase](https://www.coinbase.com/) - Identity, web3 - Backend Software Engineer. Designed and implemented new systems. Maintained legacy systems. Created a widely used NFT. Learned some cybersecurity, authentication and authorization. Used mainly Golang and also AWS, Terraform, Mongo, Ruby.
 
 - [JusticeText](justicetext.com) - [JusticeText Platform](https://platform.justicetext.com/) - Senior Software Engineer. Implemented services and features using React, AWS, Node, and Typescript. Focused on fast delivery, testing, and quality.
 
