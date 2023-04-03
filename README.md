@@ -29,19 +29,21 @@
 My name is **Renato Britto Araujo**
 
 I'm on a mission to become the best engineer I can be
-  
-Software Engineer at Coinbase
+ 
+Pursuing a Software Engineering B.A. at <a href="https://en.wikipedia.org/wiki/University_of_Bras%C3%ADlia">UnB</a>
 
-Software Engineering B.A. at <a href="https://en.wikipedia.org/wiki/University_of_Bras%C3%ADlia">UnB</a>
+Currently considering to pursue another B.A. on Aerospace Engineering at UnB
   
+At the moment, unemployed and pursuing to complete my university degree(s?)
+ <!--
 Here you can read my [resume](https://www.linkedin.com/in/renato-britto-araujo/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACg6CRUBmqu8F8P9l0QsCBs9L72rpE_U_P8,1609959810589)/) or visit [my website](https://www.renatobritto.com)
-  
-Interest in Entrepreneurship, Software and Systems Architecture and Aerospace
+ -->
+Interest in Entrepreneurship,  and Aerospace.
 </div>
 
 ### Experience
 
-- [Coinbase](https://www.coinbase.com/) - TBD - Software Engineer. TBD
+- [Coinbase](https://www.coinbase.com/) - Identity, web3 - Backend Software Engineer. Designed and implemented new systems. Maintained legacy systems.
 
 - [JusticeText](justicetext.com) - [JusticeText Platform](https://platform.justicetext.com/) - Senior Software Engineer. Implemented services and features using React, AWS, Node, and Typescript. Focused on fast delivery, testing, and quality.
 
