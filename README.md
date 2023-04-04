@@ -34,7 +34,6 @@ Pursuing a Software Engineering B.A. at <a href="https://en.wikipedia.org/wiki/U
 
 Currently considering to pursue another B.A. on Aerospace Engineering at UnB
   
-At the moment, unemployed and pursuing to complete my university degree(s?)
  <!--
 Here you can read my [resume](https://www.linkedin.com/in/renato-britto-araujo/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACg6CRUBmqu8F8P9l0QsCBs9L72rpE_U_P8,1609959810589)/) or visit [my website](https://www.renatobritto.com)
  -->
