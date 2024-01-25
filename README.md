@@ -40,7 +40,7 @@ Interest in Drone Swarms and Systems Design.
 
 ### Experience
 
-- [Coinbase](https://www.coinbase.com/) - Identity, web3 - Backend Software Engineer. Designed and implemented new systems. Maintained legacy systems. Created a widely used NFT. Learned some cybersecurity, authentication and authorization. Used mainly Golang and also AWS, Terraform, Mongo, Ruby.
+- [Coinbase](https://www.coinbase.com/) - Identity, web3 - Backend Software Engineer. Designed and implemented new systems. Maintained legacy systems. Created NFT. Learned some cybersecurity, authentication and authorization. Used mainly Golang and also AWS, Terraform, Mongo, Ruby.
 
 - [JusticeText](justicetext.com) - [JusticeText Platform](https://platform.justicetext.com/) - Senior Software Engineer. Implemented services and features using React, AWS, Node, and Typescript. Focused on fast delivery, testing, and quality.
 
