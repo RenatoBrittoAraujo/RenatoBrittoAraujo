@@ -30,14 +30,12 @@ My name is **Renato Britto Araujo**
 
 I'm on a mission to become the best engineer I can be
  
-Pursuing a Software Engineering B.A. at <a href="https://en.wikipedia.org/wiki/University_of_Bras%C3%ADlia">UnB</a>
-
-Currently considering to pursue another B.A. on Aerospace Engineering at UnB
+Pursuing a Software Engineering B.A. and Aerospace Engineering B.A. at <a href="https://en.wikipedia.org/wiki/University_of_Bras%C3%ADlia">UnB</a>
   
  <!--
 Here you can read my [resume](https://www.linkedin.com/in/renato-britto-araujo/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACg6CRUBmqu8F8P9l0QsCBs9L72rpE_U_P8,1609959810589)/) or visit [my website](https://www.renatobritto.com)
  -->
-Interest in Entrepreneurship, Embedded Systems and Aerospace.
+Interest in Drone Swarms and Systems Design.
 </div>
 
 ### Experience
@@ -46,13 +44,13 @@ Interest in Entrepreneurship, Embedded Systems and Aerospace.
 
 - [JusticeText](justicetext.com) - [JusticeText Platform](https://platform.justicetext.com/) - Senior Software Engineer. Implemented services and features using React, AWS, Node, and Typescript. Focused on fast delivery, testing, and quality.
 
-- [Red Matter](redmatterapp.com) - [Red Matter v2.0](http://beta.redmatterapp.com/) - CTO. Gathered business requisites, planned and developed most company's product and infrastructre using AWS, Node and React. Hired, trained and managed developers.
+- [Red Matter](redmatterapp.com) - [Red Matter v2.0](http://beta.redmatterapp.com/) - CTO & Developer. Gathered business requisites, planned and developed product features and infrastructre using AWS, Node and React. Hired, trained and managed developers.
 
 - [Zapay](https://usezapay.com.br/) - Multiple - Backend Developer. Developed a chatbot's API and backend API features in several microservices using Python and FastAPI.
 
-- [AiLab](https://ailab.unb.br/) - Mandamus - ML Engineer and Project Manager. Developed systems for classifying and composing legal documents using ML models. Created high accuracy models. Lead the project to completion within schedule and budget.
+- [AiLab](https://ailab.unb.br/) - Mandamus - ML Engineer and Project Manager. Developed systems for classifying and composing legal documents using ML models. Lead the project to completion within schedule and budget.
 
-- ProEpi Desenvolvimento - [Guardiões da saúde](https://play.google.com/store/apps/details?id=com.guardioesapp&hl=pt_BR) - [(GitHub)](https://github.com/proepidesenvolvimento/guardioes-api) - Full Stack Developer. Created on the app's map, focusing on mobile performance. Developed core API features and  analytics panel with Elastic + Kibana.
+- ProEpi Desenvolvimento - [Guardiões da saúde](https://play.google.com/store/apps/details?id=com.guardioesapp&hl=pt_BR) - [(GitHub)](https://github.com/proepidesenvolvimento/guardioes-api) - Full Stack Developer. Created on the app's map, focusing on mobile performance. Developed core API features and analytics panel with Elastic + Kibana.
 
 - [Lappis](https://lappis.rocks/) - [SMI](https://gitlab.com/lappis-unb/projects/SMI) - Full Stack Junior Developer. Worked with Django REST and Vue developing an application for monitoring the university's electrical grid.
 
