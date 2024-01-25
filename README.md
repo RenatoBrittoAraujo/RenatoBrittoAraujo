@@ -4,25 +4,14 @@
 <a href="https://www.linkedin.com/in/renato-britto-araujo/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<!-- Reddit -->
-<!-- <a href="https://www.reddit.com/user/RenatoBritto">
-  <img src="https://img.shields.io/badge/reddit-%23FF4500.svg?&style=for-the-badge&logo=reddit&logoColor=white">
-</a> -->
 <!-- GitLab -->
 <a href="https://gitlab.com/renatobrittoaraujo">
   <img src="https://img.shields.io/badge/gitlab-%23330f63.svg?&style=for-the-badge&logo=gitlab&logoColor=white">
 </a>
 <a href="mailto:renatobritto@protonmail.com">
   <img src="https://img.shields.io/badge/protonmail-8B89CC?&style=for-the-badge&logo=protonmail&logoColor=white">
-</a><br/>
-
-<a href="https://wakatime.com/@d1fcfe52-2cf5-4029-84a2-0e33e9f290a7"><img src="https://wakatime.com/badge/user/d1fcfe52-2cf5-4029-84a2-0e33e9f290a7.svg" alt="Total time coded since May 18 2021" /></a>
-![Github Views](https://komarev.com/ghpvc/?username=renatobrittoaraujo&color=red)
+</a>![Github Views](https://komarev.com/ghpvc/?username=renatobrittoaraujo&color=red)
 <br/>
-  
-<!-- 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renatobrittoaraujo)](https://github.com/renatobrittoaraujo/github-readme-stats)
- -->
   
 <img src="https://cultofthepartyparrot.com/flags/hd/brazilparrot.gif" height="80"><br/>
 
