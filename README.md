@@ -35,7 +35,7 @@ Pursuing a Software Engineering B.A. and Aerospace Engineering B.A. at <a href="
  <!--
 Here you can read my [resume](https://www.linkedin.com/in/renato-britto-araujo/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACg6CRUBmqu8F8P9l0QsCBs9L72rpE_U_P8,1609959810589)/) or visit [my website](https://www.renatobritto.com)
  -->
-Interest in Drone Swarms and Systems Design.
+Interest in Drone Swarms and Embedded Systems.
 </div>
 
 ### Experience
