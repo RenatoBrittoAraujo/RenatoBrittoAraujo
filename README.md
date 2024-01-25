@@ -10,7 +10,8 @@
 </a>
 <a href="mailto:renatobritto@protonmail.com">
   <img src="https://img.shields.io/badge/protonmail-8B89CC?&style=for-the-badge&logo=protonmail&logoColor=white">
-</a>![Github Views](https://komarev.com/ghpvc/?username=renatobrittoaraujo&color=red)
+</a>
+<img src="https://komarev.com/ghpvc/?username=renatobrittoaraujo&color=red">
 <br/>
   
 <img src="https://cultofthepartyparrot.com/flags/hd/brazilparrot.gif" height="80"><br/>
