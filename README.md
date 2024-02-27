@@ -68,7 +68,7 @@ Frameworks<br/><br/>
 <img src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>
 <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/>
 </div><br/>
- -->
+
   
 <div align="center" style="margin-top:20px">
 Dbs, clouds and others<br/><br/>
@@ -78,3 +78,4 @@ Dbs, clouds and others<br/><br/>
 <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </div>
+ -->
