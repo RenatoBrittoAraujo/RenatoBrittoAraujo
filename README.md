@@ -25,7 +25,7 @@ Pursuing a Software Engineering B.A. and Aerospace Engineering B.A. at <a href="
  <!--
 Here you can read my [resume](https://www.linkedin.com/in/renato-britto-araujo/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACg6CRUBmqu8F8P9l0QsCBs9L72rpE_U_P8,1609959810589)/) or visit [my website](https://www.renatobritto.com)
  -->
-Interest in Drone Swarms and Embedded Systems.
+Interest in Drone Swarms.
 </div>
 
 ### Experience
@@ -48,7 +48,7 @@ Interest in Drone Swarms and Embedded Systems.
 
 - Campina Grande, Paraíba, Brazil - 2019 - Assembled a team and competed in the 2019 ICPC Brazilian Finals representing my university in the competitive programming national contest.
 - Gramado, RS, Brazil - 2022 - Competed in the 2022 ICPC Brazilian Finals representing my university in the competitive programming national contest.
-
+ <!--
 <br/>
 <div align="center" style="margin-top:20px">
 Languages<br/><br/>
@@ -68,6 +68,7 @@ Frameworks<br/><br/>
 <img src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>
 <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/>
 </div><br/>
+ -->
   
 <div align="center" style="margin-top:20px">
 Dbs, clouds and others<br/><br/>
