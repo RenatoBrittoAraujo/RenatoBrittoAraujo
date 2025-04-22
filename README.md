@@ -1,31 +1,35 @@
 <div align="center">
 
 <!-- Linkedin -->
+<a href="mailto:renatobritto.professional@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 <a href="https://www.linkedin.com/in/renato-britto-araujo/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <!-- GitLab -->
-<a href="https://gitlab.com/renatobrittoaraujo">
+<!-- <a href="https://gitlab.com/renatobrittoaraujo">
   <img src="https://img.shields.io/badge/gitlab-%23330f63.svg?&style=for-the-badge&logo=gitlab&logoColor=white">
 </a>
 <a href="mailto:renatobritto@protonmail.com">
   <img src="https://img.shields.io/badge/protonmail-8B89CC?&style=for-the-badge&logo=protonmail&logoColor=white">
-</a>
-<img src="https://komarev.com/ghpvc/?username=renatobrittoaraujo&color=red">
+</a> -->
+<!--<img src="https://komarev.com/ghpvc/?username=renatobrittoaraujo&color=red">-->
 <br/>
   
-<img src="https://cultofthepartyparrot.com/flags/hd/brazilparrot.gif" height="80"><br/>
+<!-- <img src="https://cultofthepartyparrot.com/flags/hd/brazilparrot.gif" height="80"><br/> -->
 
 My name is **Renato Britto Araujo**
 
 I'm on a mission to become the best engineer I can be
  
-Pursuing a Software Engineering B.A. and Aerospace Engineering B.A. at <a href="https://en.wikipedia.org/wiki/University_of_Bras%C3%ADlia">UnB</a>
+Finishing up a Software Engineering B.A. at <a href="https://en.wikipedia.org/wiki/University_of_Bras%C3%ADlia">UnB</a>
   
  <!--
 Here you can read my [resume](https://www.linkedin.com/in/renato-britto-araujo/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACg6CRUBmqu8F8P9l0QsCBs9L72rpE_U_P8,1609959810589)/) or visit [my website](https://www.renatobritto.com)
  -->
-Interest in Drone Swarms.
+Interest in Autonomous Drones.
+ 
 </div>
 
 ### Experience
@@ -37,17 +41,17 @@ Interest in Drone Swarms.
 - [Red Matter](redmatterapp.com) - [Red Matter v2.0](http://beta.redmatterapp.com/) - CTO & Developer. Gathered business requisites, planned and developed product features and infrastructre using AWS, Node and React. Hired, trained and managed developers.
 
 - [Zapay](https://usezapay.com.br/) - Multiple - Backend Developer. Developed a chatbot's API and backend API features in several microservices using Python and FastAPI.
-
+<!--
 - [AiLab](https://ailab.unb.br/) - Mandamus - ML Engineer and Project Manager. Developed systems for classifying and composing legal documents using ML models. Lead the project to completion within schedule and budget.
 
 - ProEpi Desenvolvimento - [Guardiões da saúde](https://play.google.com/store/apps/details?id=com.guardioesapp&hl=pt_BR) - [(GitHub)](https://github.com/proepidesenvolvimento/guardioes-api) - Full Stack Developer. Created on the app's map, focusing on mobile performance. Developed core API features and analytics panel with Elastic + Kibana.
 
 - [Lappis](https://lappis.rocks/) - [SMI](https://gitlab.com/lappis-unb/projects/SMI) - Full Stack Junior Developer. Worked with Django REST and Vue developing an application for monitoring the university's electrical grid.
-
+ -->
 ### Achievements
 
-- Campina Grande, Paraíba, Brazil - 2019 - Assembled a team and competed in the 2019 ICPC Brazilian Finals representing my university in the competitive programming national contest.
-- Gramado, RS, Brazil - 2022 - Competed in the 2022 ICPC Brazilian Finals representing my university in the competitive programming national contest.
+- ICPC Brazilian Finals competitive programming national contest in Campina Grande - PB (2019) and Gramado - RS (2022). 
+
  <!--
 <br/>
 <div align="center" style="margin-top:20px">
